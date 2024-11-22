@@ -14,7 +14,7 @@ dotenv.config();
 const app = express();
 
 const corsOptions = {
-    origin: '"https://job-finder-sr.netlify.app" ',
+    origin: "https://job-finder-sr.netlify.app",
     credentials: true
 }
 

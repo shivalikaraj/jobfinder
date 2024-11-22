@@ -85,7 +85,7 @@ const JobDescription = () => {
       <Navbar />
       <div className="flex w-screen px-20 min-h-screen">
         <div className="basic-3/5 max-w-7xl mx-auto my-10 px-20 border-r border-gray-200">
-          <div className="flex justify-between my-5 sm:flex-col sm:gap-3">
+          <div className="flex justify-between my-5">
             <div>
               <h1 className="font-semibold text-2xl">{singleJob?.jobTitle}</h1>
             </div>
